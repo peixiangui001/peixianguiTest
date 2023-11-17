@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccf9fb7c-038c-4b1d-9bf8-277b0336ef6b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Mapper" />
+        <option value="Class" />
+        <option value="NewLua" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Program Files\Apache\maven-repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../Program Files/Apache/apache-maven-3.8.4" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\Program Files\Apache\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UmfXoMBrWBCvCJXSN6KAckqY4b" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Users/86187/Desktop/cmvonr-newcalling-interface",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.16091955",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "e3ad709ad6a05147aaebf0982fc1c2ef",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86187\Desktop\java\study\lua\src" />
+      <recent name="C:\Users\86187\Desktop\java\study\mybatis\src\main\resources\conf" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86187\Desktop\java\study\mybatis\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Lua Application.Helloworld.lua">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="nacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.nacos.NacosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Helloworld.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="Helloworld.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/lua/src" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test1.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="Test1.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/lua/src" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abc.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="abc.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/lua/src" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="astest.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="astest.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/lua/src" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test.lua" type="lua.app" factoryName="Lua Application" temporary="true">
+      <option name="program" value="lua.exe" />
+      <option name="file" value="test.lua" />
+      <option name="workingDir" value="$PROJECT_DIR$/lua/src" />
+      <option name="debuggerType" value="2" />
+      <option name="params" value="" />
+      <option name="charset" value="UTF-8" />
+      <option name="showConsole" value="true" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Lua Application.abc.lua" />
+      <item itemvalue="Lua Application.Test1.lua" />
+      <item itemvalue="Lua Application.astest.lua" />
+      <item itemvalue="Lua Application.test.lua" />
+      <item itemvalue="Lua Application.Helloworld.lua" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.NacosApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Lua Application.Helloworld.lua" />
+        <item itemvalue="Lua Application.abc.lua" />
+        <item itemvalue="Lua Application.test.lua" />
+        <item itemvalue="Lua Application.astest.lua" />
+        <item itemvalue="Lua Application.Test1.lua" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccf9fb7c-038c-4b1d-9bf8-277b0336ef6b" name="Changes" comment="" />
+      <created>1693549720865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693549720865</updated>
+      <workItem from="1693549722649" duration="16874000" />
+      <workItem from="1693648848418" duration="5515000" />
+      <workItem from="1693884874300" duration="27000" />
+      <workItem from="1695619701980" duration="4328000" />
+      <workItem from="1695686305935" duration="14858000" />
+      <workItem from="1696812412616" duration="10000000" />
+      <workItem from="1698910762763" duration="127000" />
+      <workItem from="1698910904038" duration="8784000" />
+      <workItem from="1698935386519" duration="1530000" />
+      <workItem from="1698971946472" duration="7955000" />
+      <workItem from="1699001747340" duration="1219000" />
+      <workItem from="1699231427950" duration="6358000" />
+      <workItem from="1699317800057" duration="6269000" />
+      <workItem from="1699409053575" duration="4212000" />
+      <workItem from="1699492663771" duration="5203000" />
+      <workItem from="1699577846781" duration="9974000" />
+      <workItem from="1699843005441" duration="9640000" />
+      <workItem from="1699861746076" duration="618000" />
+      <workItem from="1699923580428" duration="16611000" />
+      <workItem from="1700015585756" duration="4822000" />
+      <workItem from="1700096971472" duration="1338000" />
+      <workItem from="1700103780046" duration="4640000" />
+      <workItem from="1700209309293" duration="340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
